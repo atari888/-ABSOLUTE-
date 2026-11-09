@@ -86,7 +86,7 @@ Your own sky in the Overworld.
 | **Hitboxes** | **Custom Sky** |
 |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 14 46 70" src="https://github.com/user-attachments/assets/debda716-85fd-4169-8b07-27c901955bde" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 16 08 35" src="https://github.com/user-attachments/assets/ad77db9c-af4d-4fb2-83ae-4edffe961c6e" /> |
 | **Potion HUD** | **Crosshair**|
-|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 03 13" src="https://github.com/user-attachments/assets/ea06c595-8db9-412f-8fba-e26cefc9aee9" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 59 63" src="https://github.com/user-attachments/assets/a2405e53-12ab-45af-85a4-f55af80834e8" /> |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 03 13" src="https://github.com/user-attachments/assets/ea06c595-8db9-412f-8fba-e26cefc9aee9" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 19 40 46" src="https://github.com/user-attachments/assets/e696ae44-b8a6-4e88-b39c-1920022f82de" /> |
 
 ---
 
