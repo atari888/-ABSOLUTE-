@@ -156,7 +156,7 @@ Open an [Issue](../../issues) and include:
 
 <div align="center">
 
-[English](README.md) | **Русский**
+**Русский**
 
 # ✨ ABSOLUTE
 
