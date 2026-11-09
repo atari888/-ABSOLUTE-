@@ -82,11 +82,11 @@ Your own sky in the Overworld.
 
 | Menu | ViewModel |
 |:---:|:---:|
-| ![Menu](screenshots/menu.png) | ![ViewModel](screenshots/viewmodel.png) |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 10 14 40" src="https://github.com/user-attachments/assets/e212e940-e5cd-4a05-aeae-8c2abb717c71" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 12 42 89" src="https://github.com/user-attachments/assets/ac10783b-139b-4e9b-ac2f-0c95ca024253" /> |
 | **Hitboxes** | **Custom Sky** |
-| ![Hitboxes](screenshots/hitboxes.png) | ![Custom Sky](screenshots/sky.png) |
-| **Potion HUD** | **Crosshair** |
-| ![Potion HUD](screenshots/potionhud.png) | ![Crosshair](screenshots/crosshair.png) |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 14 46 70" src="https://github.com/user-attachments/assets/debda716-85fd-4169-8b07-27c901955bde" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 16 08 35" src="https://github.com/user-attachments/assets/ad77db9c-af4d-4fb2-83ae-4edffe961c6e" /> |
+| **Potion HUD** | **Crosshair**|
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 03 13" src="https://github.com/user-attachments/assets/ea06c595-8db9-412f-8fba-e26cefc9aee9" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 59 63" src="https://github.com/user-attachments/assets/a2405e53-12ab-45af-85a4-f55af80834e8" /> |
 
 ---
 
@@ -238,11 +238,11 @@ Absolute меняет только то, **как выглядит** игра, �
 
 | Меню | ViewModel |
 |:---:|:---:|
-| ![Меню](screenshots/menu.png) | ![ViewModel](screenshots/viewmodel.png) |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 10 05 95" src="https://github.com/user-attachments/assets/26c62ca5-141a-4a09-b423-f3127e2dae4d" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 12 42 89" src="https://github.com/user-attachments/assets/460e57e4-316b-4bb9-94e3-cc744a8eb5fc" /> |
 | **Hitboxes** | **Custom Sky** |
-| ![Hitboxes](screenshots/hitboxes.png) | ![Custom Sky](screenshots/sky.png) |
-| **Potion HUD** | **Прицел** |
-| ![Potion HUD](screenshots/potionhud.png) | ![Прицел](screenshots/crosshair.png) |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 14 46 70" src="https://github.com/user-attachments/assets/558edc1d-0f44-43b7-8117-4aa2f03df505" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 16 08 35" src="https://github.com/user-attachments/assets/ffd70fdd-ccd5-4a1f-af14-daebe966f4f5" /> |
+| **Potion HUD** | **Прицел**   |
+|<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 18 03 13" src="https://github.com/user-attachments/assets/7b177719-db80-4d3f-a9b7-bb52793cc42d" /> |<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 10 - 01 19 40 46" src="https://github.com/user-attachments/assets/585a02f9-9bdd-4451-b994-b0b1c86f1151" /> | 
 
 ---
 
