@@ -1,6 +1,6 @@
 <div align="center">
 
-**English** | [Русский](README.ru.md)
+**English** 
 
 # ✨ ABSOLUTE
 
