@@ -19,7 +19,7 @@ Visuals only. No cheats.
 
 **[📥 Download](../../releases/latest)** · **[🐞 Report a bug](../../issues)**
 
-![Absolute](screenshots/main.png)
+! <img width="736" height="414" alt="ᶻ 𝘇 𐰁" src="https://github.com/user-attachments/assets/72171b80-315b-450d-95c5-c26ed145a415" />)
 
 </div>
 
@@ -175,7 +175,7 @@ Open an [Issue](../../issues) and include:
 
 **[📥 Скачать](../../releases/latest)** · **[🐞 Сообщить о баге](../../issues)**
 
-![Absolute](screenshots/main.png)
+! <img width="736" height="414" alt="ᶻ 𝘇 𐰁" src="https://github.com/user-attachments/assets/fa505068-ca75-4e05-a8bf-55ee16bd3e4f" />
 
 </div>
 
